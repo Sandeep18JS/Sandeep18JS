@@ -39,5 +39,3 @@ Web Developer | Front End Expert | Three.js
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep18JS&layout=compact)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep18JS)](https://github.com/Sandeep18JS/github-readme-stats)
