@@ -23,7 +23,7 @@ Web Developer | Front End Expert | Three.js
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" width="36" height="36" alt="TailwindCSS" /></a>
 
-<a href="https://www.sanity.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" width="36" height="36" alt="Sanity" style="border-radius: 50%" /></a>
+<a href="https://www.sanity.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b4d02306b24acf7dbff7cd2ee56000ec47f3b2f0d77a6228708e96bee112ea08/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f33646f383277686d2f6e6578742f316466636539646465376136326363616138653833373732353461316539313966366330376164332d313238783132382e737667" width="36" height="36" alt="Sanity" /></a>
 <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.superbase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
