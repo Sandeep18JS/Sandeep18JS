@@ -23,7 +23,7 @@ Web Developer | Front End Expert | Three.js
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" width="36" height="36" alt="TailwindCSS" /></a>
 
-<a href="https://www.sanity.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" width="36" height="36" alt="Sanity" /></a>
+<a href="https://www.sanity.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" width="36" height="36" alt="Sanity" style="border-radius: 50%" /></a>
 <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.superbase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
