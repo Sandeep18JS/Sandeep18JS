@@ -23,11 +23,12 @@ Web Developer | Front End Expert | Three.js
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" width="36" height="36" alt="TailwindCSS" /></a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
+<a href="https://www.sanity.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" width="36" height="36" alt="Sanity" /></a>
+<a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.superbase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" width="36" height="36" alt="Notion" /></a>
+<a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" width="36" height="36" alt="Notion" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" width="36" height="36" alt="Blender" /></a>
 </p>
