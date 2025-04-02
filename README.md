@@ -5,7 +5,7 @@ Web Developer | Front End Expert | Three.js
 -------------------------------------------
 
 * 🌍  I'm based in Hyderabad,India
-* 🖥️  See my portfolio at [Sandeep.com](http://sandeep-alpha.vercel.app/)
+* 🖥️  See my portfolio at [Sandeep.com](https://sandeep-webdev.vercel.app/)
 * ✉️  You can contact me at [sandeepvemula408@gmail.com](mailto:sandeepvemula408@gmail.com)
 * 🧠  I'm learning Three.js and Next.js
 * 🤝  I'm open to collaborating on exciting projects as a web developer
