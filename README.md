@@ -14,23 +14,7 @@ Web Developer | Front End Expert | Three.js
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="Html"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="TailwindCSS" /></a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" width="36" height="36" alt="TailwindCSS" /></a>
-
-<a href="https://www.sanity.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b4d02306b24acf7dbff7cd2ee56000ec47f3b2f0d77a6228708e96bee112ea08/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f33646f383277686d2f6e6578742f316466636539646465376136326363616138653833373732353461316539313966366330376164332d313238783132382e737667" width="36" height="36" alt="Sanity" /></a>
-<a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.superbase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" width="36" height="36" alt="Notion" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" width="36" height="36" alt="Blender" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,threejs,firebase,supabase,git,vscode,notion,figma,blender" />
 </p>
 
 
